@@ -2,7 +2,7 @@
 - 👀 I’m interested in getting a job as a SWE
 - 🌱 I’m currently learning Python and Databases
 - 💞️ I’m looking to collaborate on backend projects
-- 📫 You can reach me through Git so far
+- 📫 You can reach me through Git & LinkedIn
 - 😄 Pronouns: He/Him
 
 <!---
